@@ -1,3 +1,6 @@
+Live: https://framer-motion-tailwind-mu.vercel.app/ <br>
+<br>
+<br> 
 <br>Life Balance Hub<br>
 Welcome to the Website. This project aims to provide Life balance and wellness<br> services to users through an interactive and engaging platform.<br>
 <br>
