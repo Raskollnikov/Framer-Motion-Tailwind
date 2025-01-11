@@ -1,8 +1,19 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>Life Balance Hub<br>
+Welcome to the Website. This project aims to provide Life balance and wellness<br> services to users through an interactive and engaging platform.<br>
+<br>
+<br>
+<br>
+Features<br>
+Framer Motion Animations: Smooth, interactive animations for a dynamic user experience.<br>
+React Tabs: Organize different services under clickable tabs.<br>
+Responsive Design: Built with Tailwind CSS for a clean and responsive layout.<br>
+<br>
+Tech Stack<br>
+React: JavaScript library for building user interfaces.<br>
+Framer Motion: Animation library to create fluid transitions and animations.<br>
+Tailwind CSS: Utility-first CSS framework for styling.<br>
+React Tabs: Tabs for service categories.<br>
+React Toastify: For displaying notifications to users.<br>
+Vite: Next-generation, fast build tool.<br>
+<br>
+<br>
